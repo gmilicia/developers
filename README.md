@@ -1,6 +1,11 @@
 API Documentation
 =================
 
+A limited set of API end points have been exposed for integration.  We are
+looking for new and more comprehensive ways to integrate Resy into your
+application so <a href="mailto:api@resy.com">email us</a> if you need any help
+or need more functionality from our API.
+
 HTTP Response Codes
 -------------------
 
