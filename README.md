@@ -282,9 +282,21 @@ End Points
     | {                                                                       |
     |   [                                                                     |
     |       "id": 1,                                                          |
-    |       "name": "Test Venue"                                              |
-    |       "longitude": -73.9822091                                          |
-    |       "latitude": 40.745812                                             |
+    |       "location": {                                                     |
+    |           "address_1": "315 Park Avenue South",                         |
+    |           "address_2": "",                                              |
+    |           "city": "New York",                                           |
+    |           "latitude": 40.745812,                                        |
+    |           "longitude": -73.9822091,                                     |
+    |           "postal_code": "10010",                                       |
+    |           "state": "ny"                                                 |
+    |       },                                                                |
+    |       "name": "Test Venue",                                             |
+    |       "phone_number": "2125551212",                                     |
+    |       "price_range": 3,                                                 |
+    |       "rating": 4.9,                                                    |
+    |       "tagline": "Yummy food!",                                         |
+    |       "type": "Vegan Joint"                                             |
     |   ]                                                                     |
     | }                                                                       |
     +-------------------------------------------------------------------------+
