@@ -179,6 +179,8 @@ End Points
     |               "config_type_font_color": "FFFFFF",                       |
     |               "config_type_id": 2,                                      |
     |               "day": "2014-08-17",                                      |
+    |               "disable_cancellations": 0,                               |
+    |               "disable_changes": 0,                                     |
     |               "features": [                                             |
     |                   "Gotham Bar & Grill donates 100% of proceeds from..." |
     |               ],                                                        |
@@ -288,6 +290,7 @@ End Points
     |           "city": "New York",                                           |
     |           "latitude": 40.745812,                                        |
     |           "longitude": -73.9822091,                                     |
+    |           "neighborhood": "Flatiron",                                   |
     |           "postal_code": "10010",                                       |
     |           "state": "ny"                                                 |
     |       },                                                                |
