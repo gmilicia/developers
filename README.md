@@ -181,6 +181,7 @@ End Points
     |               "day": "2014-08-17",                                      |
     |               "disable_cancellations": 0,                               |
     |               "disable_changes": 0,                                     |
+    |               "disable_comps": 0,                                       |
     |               "features": [                                             |
     |                   "Gotham Bar & Grill donates 100% of proceeds from..." |
     |               ],                                                        |
@@ -200,6 +201,7 @@ End Points
     |               "when": "2014-08-17 23:30:00"                             |
     |           },                                                            |
     |           "ticketing": {                                                |
+    |               "allow_comps": 1,                                         |
     |               "config_type": "event",                                   |
     |               "config_type_id": 1,                                      |
     |               "max_seats": 100,                                         |
