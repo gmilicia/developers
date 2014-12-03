@@ -201,7 +201,6 @@ End Points
     |               "when": "2014-08-17 23:30:00"                             |
     |           },                                                            |
     |           "ticketing": {                                                |
-    |               "allow_comps": 1,                                         |
     |               "config_type": "event",                                   |
     |               "config_type_id": 1,                                      |
     |               "max_seats": 100,                                         |
