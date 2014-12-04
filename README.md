@@ -171,6 +171,9 @@ End Points
     |               "buy_now_price": null,                                    |
     |               "max_bid": null                                           |
     |           },                                                            |
+    |           "constraints": {                                              |
+    |               "This reservation cannot be cancelled."                   |
+    |           },                                                            |
     |           "distance": 0.005240127936334476,                             |
     |           "lock_token": "qW2B8sxTOOIHRJMEio7cVyT38_3tJR0p0DerWknpN...", |
     |           "specs": {                                                    |
@@ -179,8 +182,6 @@ End Points
     |               "config_type_font_color": "FFFFFF",                       |
     |               "config_type_id": 2,                                      |
     |               "day": "2014-08-17",                                      |
-    |               "disable_cancellations": 0,                               |
-    |               "disable_changes": 0,                                     |
     |               "disable_comps": 0,                                       |
     |               "features": [                                             |
     |                   "Gotham Bar & Grill donates 100% of proceeds from..." |
@@ -192,6 +193,8 @@ End Points
     |               "num_seats": 2,                                           |
     |               "price_per_seat": "50.00",                                |
     |               "purchase_type_id": 2,                                    |
+    |               "secs_cancel": 0,                                         |
+    |               "secs_change": null,                                      |
     |               "service_type_id": 2,                                     |
     |               "table_config_id": 1,                                     |
     |               "table_ids": [                                            |
