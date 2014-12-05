@@ -171,9 +171,6 @@ End Points
     |               "buy_now_price": null,                                    |
     |               "max_bid": null                                           |
     |           },                                                            |
-    |           "constraints": {                                              |
-    |               "This reservation cannot be cancelled."                   |
-    |           },                                                            |
     |           "distance": 0.005240127936334476,                             |
     |           "lock_token": "qW2B8sxTOOIHRJMEio7cVyT38_3tJR0p0DerWknpN...", |
     |           "specs": {                                                    |
@@ -241,6 +238,7 @@ End Points
     |               "rater_star_score": 4.75,                                 |
     |               "state": "NY",                                            |
     |               "tagline": "Yummy food!",                                 |
+    |               "time_zone": "EST5EDT",                                   |
     |               "type": "Vegan Joint",                                    |
     |               "url": "http://resy.com/"                                 |
     |           }                                                             |
