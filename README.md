@@ -171,6 +171,10 @@ End Points
     |               "buy_now_price": null,                                    |
     |               "max_bid": null                                           |
     |           },                                                            |
+    |           "deposit": {                                                  |
+    |               "booking_fee_amount": null,                               |
+    |               "price_per_seat": null                                    |
+    |           },                                                            |
     |           "distance": 0.005240127936334476,                             |
     |           "lock_token": "qW2B8sxTOOIHRJMEio7cVyT38_3tJR0p0DerWknpN...", |
     |           "specs": {                                                    |
